@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<setting>
+    <baseURL>https://www.google.com/</baseURL>
+    <username>anpudovaa@yandex.ru</username>
+    <password>anz1912</password>
+    <invalidPassword>anz1111</invalidPassword>
+    <driverPath>C:/Users/anpud/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe</driverPath>
+    <chromeWebdriver>webdriver.chrome.driver</chromeWebdriver>
+</setting>
